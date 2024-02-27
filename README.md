@@ -22,3 +22,17 @@ for k,v in d.items():
 # เริ่มต้นพัฒนา streamlit
 
 กฤษฎา ลีประโคน
+
+
+README.md
+- application title
+- author: 
+  * id: 66114540056
+  * name: Kritsada Leeprakone
+- technology: [pygame/streamlit]
+- application description:
+
+* presentation: [slide/canva/etc..] link [public/ubu]
+* video: link [public/ubu]
+ xoxoxo
+
